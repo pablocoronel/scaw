@@ -1,0 +1,23 @@
+/******************* HEADER *********************/
+/*->Menu superior*/
+.navbar{
+	margin-bottom: 0px;
+}
+/*->Jumbotron*/
+#jumbotronPrincipal{
+	background-color: #666699;
+	color: #FFF;
+	padding: 20px 0;
+}
+
+/******************* CONTENIDO *********************/
+
+
+/******************* FOOTER *********************/
+/*->Jumbotron Footer*/
+#jumbotronFooter{
+	margin-top: 20px;
+	margin-bottom: 0px;
+	color: white;
+	background-color: #414260;
+}

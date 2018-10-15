@@ -1,0 +1,15 @@
+.tab-content{
+	border-left: 1px solid silver;
+	border-right: 1px solid silver;
+	border-bottom: 1px solid silver;
+	padding: 10px;
+	padding-top: 25px;
+	background-color: #F4F4F4;
+}
+
+#as, #aa{
+	border-left: 1px solid silver;
+	border-right: 1px solid silver;
+	border-top: 1px solid silver;
+	/*border: 1px solid silver;*/
+}
